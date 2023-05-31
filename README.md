@@ -1,12 +1,12 @@
-# Philippines Travel Level Map
+# Philippines Lingguistics Map
 
-Mark the places you've visited and see which other more you wanna go to!
+Click the place and find out the Languages here!
 
 [Demo](https://my-philippines-travel-level.com/map)
 
 | Level | Description |
 | ----- | ----------- |
-| 0 | Never been there |
+| 0 | [Ilocano](https://docs.google.com/spreadsheets/d/1ygQlKgV7lZdhhd4TM03ofVZnfi9GOUbTIOttYQKl5ys/edit#gid=748460307) |
 | 1 | Passed here |
 | 2 | Alighted here |
 | 3 | Visited here |
